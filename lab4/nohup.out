@@ -1,0 +1,5 @@
+[2021-11-10 15:33:43.074] [info] Resources files: /home/tumbar/.config/waybar/config, /home/tumbar/.config/waybar/style.css
+[2021-11-10 15:33:43.085] [warning] For a functional tray you must have libappindicator-* installed and export XDG_CURRENT_DESKTOP=Unity
+
+** (waybar:17243): WARNING **: 15:33:43.098: gtk-layer-shell v0.6.0 may not work on GTK v3.24.30. If you experience crashes, check https://github.com/wmww/gtk-layer-shell/blob/master/compatibility.md
+[2021-11-10 15:33:43.235] [info] Bar configured (width: 1920, height: 28) for output: eDP-1
